@@ -1,0 +1,1 @@
+This is the second attempt at the first application for the [*Ruby on Rails Tutorial*](http://railstutorial.org).
